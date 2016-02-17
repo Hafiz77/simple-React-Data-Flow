@@ -1,0 +1,31 @@
+
+.search-bar{
+  margin: 20px;
+  text-align: center;
+}
+.search-bar input{
+  width: 75%;
+}
+.video-item img{
+  max-width: 65px;
+
+}
+.video-detail .details{
+  margin-top: 10px;
+  padding-top: 10px;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
+.details{
+  padding: 7px;
+  font-family: Roboto,sans-serif;
+}
+.list-group-item{
+  cursor: pointer;
+}
+.list-group-item:hover{
+  background-color: #eee
+}
+.embed-responsive-item{
+  border: 3px solid #eee;
+}
